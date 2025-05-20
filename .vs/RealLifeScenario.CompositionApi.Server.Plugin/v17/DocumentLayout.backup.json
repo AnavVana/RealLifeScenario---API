@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\source\\repos\\reallifescenario.compositionapi.server.plugin\\postpwoentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:postpwoentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\updategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:updategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\deletegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:deletegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\getfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:getfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\getgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:getgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\postgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D1FAB1-2FBA-4E12-8CC2-E3424B678C8F}|RealLifeScenario.CompositionApi.Server.Plugin.csproj|solutionrelative:postgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostPWOentry.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\PostPWOentry.cs",
+              "RelativeDocumentMoniker": "PostPWOentry.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\PostPWOentry.cs",
+              "RelativeToolTip": "PostPWOentry.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAD8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:25:47.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostGroup.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\PostGroup.cs",
+              "RelativeDocumentMoniker": "PostGroup.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\PostGroup.cs",
+              "RelativeToolTip": "PostGroup.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:52:33.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateGroup.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\UpdateGroup.cs",
+              "RelativeDocumentMoniker": "UpdateGroup.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\UpdateGroup.cs",
+              "RelativeToolTip": "UpdateGroup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:42:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteGroup.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\DeleteGroup.cs",
+              "RelativeDocumentMoniker": "DeleteGroup.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\DeleteGroup.cs",
+              "RelativeToolTip": "DeleteGroup.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIA+wFMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:21:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetGroup.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\GetGroup.cs",
+              "RelativeDocumentMoniker": "GetGroup.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\GetGroup.cs",
+              "RelativeToolTip": "GetGroup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:56:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetFilters.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\GetFilters.cs",
+              "RelativeDocumentMoniker": "GetFilters.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\RealLifeScenario.CompositionApi.Server.Plugin\\GetFilters.cs",
+              "RelativeToolTip": "GetFilters.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:36.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
