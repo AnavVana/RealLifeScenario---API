@@ -20,7 +20,7 @@ using System.Security.Cryptography;
 
 namespace QBM.CompositionApi
 {
-    public class GetFilters : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> // This is another test comment for BRANCH 2
+    public class GetFilters : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> // This is a test comment for Branches conflicts
     {
         public void Build(IApiBuilder builder)
         {
