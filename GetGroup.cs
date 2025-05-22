@@ -20,7 +20,7 @@ using System.Security.Cryptography;
 
 namespace QBM.CompositionApi
 {
-    public class GetGroup : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> 
+    public class GetGroup : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> // This is a comment for GIT 4 exercise
     {
         public void Build(IApiBuilder builder)
         {
