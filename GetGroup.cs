@@ -18,9 +18,9 @@ using QBM.CompositionApi.Definition;
 using System.Runtime.ConstrainedExecution;
 using System.Security.Cryptography;
 
-namespace QBM.CompositionApi
+namespace QBM.CompositionApi // theBranch comment
 {
-    public class GetGroup : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> // This is a comment for GIT 4 exercise
+    public class GetGroup : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject> 
     {
         public void Build(IApiBuilder builder)
         {
